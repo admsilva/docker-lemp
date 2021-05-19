@@ -1,8 +1,8 @@
-# Docker NMPP
+# Docker LEMP
 
 Docker Env for NGINX, MariaDB &amp; PHP with PhpMyAdmin
 
-Support is always appreciated
+Support is always appreciated!
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Support is always appreciated
 ## Install
 
 ```
-git clone https://github.com/tobbid/docker-nmpp.git
+git clone https://github.com/tobbid/docker-lemp.git
 cd docker-nmpp
 cp sample.env .env
 docker-compose up
@@ -64,4 +64,8 @@ http://localhost:8082
 
 ## Credits
 
+- Coming soon!
+
 ## License
+
+- Coming soon!
