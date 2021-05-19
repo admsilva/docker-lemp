@@ -1,4 +1,4 @@
-# docker-nmpp
+# Docker NMPP
 
 Docker Env for NGINX, MariaDB &amp; PHP with PhpMyAdmin
 
