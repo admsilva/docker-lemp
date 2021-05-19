@@ -18,10 +18,10 @@ Support is always appreciated!
 
 ## Components
 
-- NGINX latest
-- MariaDB latest
-- PHP (7.4.19)
-- PhpMyAdmin lastest
+- NGINX (latest)
+- MariaDB (latest)
+- PHP7 (latest)
+- PhpMyAdmin (lastest)
 
 ## Features
 
