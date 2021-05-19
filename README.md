@@ -2,6 +2,8 @@
 
 Docker Env for NGINX, MariaDB &amp; PHP with PhpMyAdmin
 
+**L** is for Linux, **E** is for Nginx, **M** is for MySQL and **P** is for PHP.
+
 Support is always appreciated!
 
 ## Table of Contents
