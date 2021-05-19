@@ -25,7 +25,8 @@ Support is always appreciated!
 
 ## Features
 
-- Coming soon!
+- Logfiles in log/
+- WordPress available at docker-compose file
 
 ## Install
 
