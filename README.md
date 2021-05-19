@@ -12,6 +12,7 @@ Support is always appreciated!
 * [Features](#features)
 * [Install](#install)
 * [Folder Structure](#folder-structure)
+* [Issues](#issues)
 * [Changelog](#changelog)
 * [Credits](#credits)
 * [License](#license)
@@ -60,6 +61,12 @@ http://localhost:8082
 │  │  
 │  └─ www
 ```
+
+## Issues
+
+Please have a look at: https://github.com/tobbid/docker-lemp/issues
+
+- Sometimes the MariaDB 10.5.10 has hickups with starting up on Apple M1
 
 ## Changelog
 
