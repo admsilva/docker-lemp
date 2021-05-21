@@ -89,12 +89,9 @@ http://localhost:8082
 
 ## Changelog
 
-### 0.0.2 Beta
+### Beta
 
 - prepard index.php updated readme.md 
-
-### 0.0.1 Beta
-
 - initial version
 
 ## Credits
