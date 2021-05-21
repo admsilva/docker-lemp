@@ -86,9 +86,12 @@ http://localhost:8082
 ## Issues
 
 - Please have a look at: https://github.com/tobbid/docker-lemp/issues
-- Sometimes the latest MariaDB Version 10.5.10 has hickups while starting up on Apple M1
 
 ## Changelog
+
+### 0.0.2 Beta
+
+- prepard index.php updated readme.md 
 
 ### 0.0.1 Beta
 
@@ -96,4 +99,4 @@ http://localhost:8082
 
 ## Credits
 
-- We are happy if you want to create a pull request or help people with their issues.
+- You help is always appreciate. Please let us know, how we can make this evironment even better
