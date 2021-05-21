@@ -80,7 +80,7 @@ http://localhost:8082
 │  │  
 │  └─ www (Document root)
 │  │  │
-│  │  └─ index.html
+│  │  └─ index.php
 ```
 
 ## Issues
