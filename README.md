@@ -91,7 +91,7 @@ http://localhost:8082
 
 ### Beta
 
-- prepard index.php updated readme.md 
+- prepared index.php updated readme.md 
 - initial version
 
 ## Credits
