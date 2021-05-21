@@ -1,6 +1,6 @@
 # Docker LEMP
 
-Docker Environemnt for NGINX, MariaDB &amp; PHP with PhpMyAdmin
+Docker Environment for NGINX, MariaDB &amp; PHP with PhpMyAdmin
 
 **L** is for Linux, **E** is for Nginx, **M** is for MySQL/MariaDB and **P** is for PHP.
 
