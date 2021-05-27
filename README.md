@@ -96,4 +96,4 @@ http://localhost:8082
 
 ## Credits
 
-- Your help is always appreciate. Please let us know, how we can make this evironment even better.
+- Your help is always appreciate. Please let us know, how we can make this environment even better.
