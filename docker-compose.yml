@@ -14,13 +14,17 @@ php:
   build: .
   volumes: 
     - ./www:/www
+#   - ./conf/php7.ini:/usr/local/etc/php/conf.d/my.ini:ro
+#   - ./conf/php7-fpm.conf:/usr/local/etc/php-fpm.d/www.conf:ro
   links:
     - mariadb
 
 #php8:
 #  build: .
 #  volumes: 
-#    - ./www:/www
+#   - ./www:/www
+#   - ./conf/php8.ini:/usr/local/etc/php/conf.d/my.ini:ro
+#   - ./conf/php8-fpm.conf:/usr/local/etc/php-fpm.d/www.conf:ro
 #  links:
 #    - mariadb
 
