@@ -17,6 +17,13 @@ php:
   links:
     - mariadb
 
+#php8:
+#  build: .
+#  volumes: 
+#    - ./www:/www
+#  links:
+#    - mariadb
+
 mariadb:
   image: mariadb:latest
   ports:
