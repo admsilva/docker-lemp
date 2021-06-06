@@ -25,6 +25,7 @@ Support is always appreciated! Environment is not optimized for production, yet!
 
 ## Features
 
+- Environment can be used on ARM based devices
 - Logfiles in log/
 - Configuration available in conf/
 - WordPress available at docker-compose file
